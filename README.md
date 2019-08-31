@@ -1,1 +1,1 @@
-# javaScript2
+Hometasks repository for course JavaScript2 (Geekbrains)!
